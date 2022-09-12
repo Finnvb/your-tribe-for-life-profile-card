@@ -1,4 +1,4 @@
-# Visitekaartje
+## Visitekaartje
 
 Dit is mijn visitekaartje voor sprint 13 gemaakt in Sveltekit.
 
@@ -18,7 +18,7 @@ Dit is mijn visitekaartje voor sprint 13 gemaakt in Sveltekit.
 - SvelteKit
 
 
-## 📥 Installatie
+## Installatie
 
 1. Clone of download deze repository
 2. Ga naar de root directory van het project.
@@ -31,7 +31,7 @@ Dit is mijn visitekaartje voor sprint 13 gemaakt in Sveltekit.
 [SvelteKit tutorials](https://www.youtube.com/watch?v=9OlLxkaeVvw&list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
 
 
-## 🔓 Licentie
+## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
