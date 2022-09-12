@@ -5,12 +5,12 @@ Dit is mijn visitekaartje voor sprint 13 gemaakt in Sveltekit.
 ![afbeelding](https://user-images.githubusercontent.com/26089533/189639113-68301019-b1b4-4693-800c-161f346cb2c9.png)
 
 
-**Tools**
+## Tools
 
 - VSCode
 - Pen & Papier
 
-**Gebruikte technieken**
+## Gebruikte technieken
 
 - HTML
 - CSS
