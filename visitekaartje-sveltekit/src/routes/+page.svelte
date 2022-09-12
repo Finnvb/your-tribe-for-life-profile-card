@@ -18,6 +18,11 @@
     // -------------------- Flip card ----------------------
 </script>
 
+
+
+
+
+
 <main class="container" on:click={flip}>
     <article class="cardFront" id="card">
         <Header />
@@ -27,6 +32,12 @@
     </article>
     <article class="cardBack" />
 </main>
+
+
+
+
+
+
 
 <style>
     .container {
@@ -52,14 +63,10 @@
     .cardBack,
     .cardFront {
         backface-visibility: hidden;
-        /* background-color: #FFFFFF; */
         border-radius: 0.5rem;
-        /* background-image: linear-gradient(to bottom right, #66e5bf, #050542); */
         position: absolute;
-        /* border-radius: 1.5rem; */
         width: 100%;
         height: 100%;
-        /* border-radius: 1.5rem; */
         box-sizing: border-box;
     }
 
@@ -91,22 +98,5 @@
         }
     }
 
-    /* preloader */
 
-    @keyframes bounce {
-        0%,
-        50%,
-        100% {
-            transform: scale(1);
-            /* filter: blur(0px); */
-        }
-        25% {
-            transform: scale(0.6);
-            /* filter: blur(3px); */
-        }
-        75% {
-            /* filter: blur(3px); */
-            transform: scale(1.4);
-        }
-    }
 </style>
