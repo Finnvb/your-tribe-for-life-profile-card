@@ -2,7 +2,7 @@
 
 Dit is mijn visitekaartje voor sprint 13 gemaakt in Sveltekit.
 
-![afbeelding](https://user-images.githubusercontent.com/26089533/189638441-5d6e6729-3aab-4419-8cf4-eddff1fea04a.png)
+![afbeelding](https://user-images.githubusercontent.com/26089533/189639113-68301019-b1b4-4693-800c-161f346cb2c9.png)
 
 
 ## Creating a project
@@ -28,14 +28,7 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
+## Bronnen
 
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+![SvelteKit docs](https://kit.svelte.dev/docs/introduction)
+![SvelteKit tutorials](https://www.youtube.com/watch?v=9OlLxkaeVvw&list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
