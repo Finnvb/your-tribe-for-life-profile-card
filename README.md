@@ -30,5 +30,5 @@ npm run dev -- --open
 
 ## Bronnen
 
-![SvelteKit docs](https://kit.svelte.dev/docs/introduction)
-![SvelteKit tutorials](https://www.youtube.com/watch?v=9OlLxkaeVvw&list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
+[SvelteKit docs](https://kit.svelte.dev/docs/introduction)
+[SvelteKit tutorials](https://www.youtube.com/watch?v=9OlLxkaeVvw&list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
