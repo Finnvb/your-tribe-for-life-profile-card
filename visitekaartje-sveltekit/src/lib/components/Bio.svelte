@@ -8,7 +8,7 @@
                     class="svgIcon"
                     src="/githubIcon.svg"
                     alt="github"
-                /> Finnvb</a
+                />Finnvb</a
             >
             <p id="githubHandle" />
         </li>
@@ -42,7 +42,7 @@ ul {
         display: flex;
         list-style: none;
         align-items: center;
-font-size: 14px;
+        font-size: 14px;
         text-decoration: none;
     }
 
@@ -69,9 +69,9 @@ font-size: 14px;
         justify-content: space-between;
         position: absolute;
         bottom: 0;
-        margin-left: 2.5rem;
+        margin-left: 2.3rem;
         margin-bottom: 3.5rem;
-        width: 70%;
+        width: 75%;
      
     }
 
