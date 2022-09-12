@@ -1,6 +1,9 @@
 # Visitekaartje
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Dit is mijn visitekaartje voor sprint 13 gemaakt in Sveltekit.
+
+![afbeelding](https://user-images.githubusercontent.com/26089533/189638441-5d6e6729-3aab-4419-8cf4-eddff1fea04a.png)
+
 
 ## Creating a project
 
