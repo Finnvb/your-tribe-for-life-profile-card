@@ -23,7 +23,7 @@ Dit is mijn visitekaartje voor sprint 13 gemaakt in Sveltekit.
 1. Clone of download deze repository
 2. Ga naar de root directory van het project.
 3. Gebruik `npm install` om de gebruikte dev dependencies en packages te installeren.
-4. Gebruik `npm run dev` om de web-server te starten. Deze is standaard bereikbar op poort `5173`.
+4. Gebruik `npm run dev` om de web-server te starten. Deze is standaard bereikbar op poort `5174`.
 
 ## Bronnen
 
