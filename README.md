@@ -1,38 +1,34 @@
-# create-svelte
+## Visitekaartje
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Dit is mijn visitekaartje voor sprint 13 gemaakt in svelteKit.
 
-## Creating a project
+![afbeelding](https://user-images.githubusercontent.com/26089533/189646377-3d21047a-800b-45ea-8ec2-5b4c96051ee1.png)
 
-If you're seeing this, you've probably already done this step. Congrats!
+[Live versie](https://your-tribe-for-life-profile-card-kappa.vercel.app/)
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Beschrijving
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+* HTML
+* CSS
+* JS
+* SvelteKit
 
-## Developing
+## Installatie
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+1. Clone of download deze repository
+2. Ga naar de root directory van het project.
+3. Gebruik `npm install` om de gebruikte dev dependencies en packages te installeren.
+4. Gebruik `npm run dev` om de web-server te starten. Deze is standaard bereikbar op poort `5174`.
 
-```bash
-npm run dev
+## Bronnen
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+[SvelteKit Docs](https://kit.svelte.dev/docs/introduction)
+<br>
+[SvelteKit Tutorials](https://www.youtube.com/watch?v=9OlLxkaeVvw&list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
 
-## Building
 
-To create a production version of your app:
+## Licentie
 
-```bash
-npm run build
-```
+![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+This work is licensed under [GNU GPLv3](./LICENSE).
