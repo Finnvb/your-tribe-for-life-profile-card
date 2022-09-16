@@ -3,6 +3,11 @@
     import Header from "$lib/components/Header.svelte";
     import Bio from "$lib/components/Bio.svelte";
 
+
+
+
+  
+
     // -------------------- Flip card ----------------------
 
     function flip(event) {
