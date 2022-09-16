@@ -1,6 +1,6 @@
 ## Visitekaartje
 
-Dit is mijn visitekaartje voor sprint 13 gemaakt in svelteKit.
+Dit is mijn visitekaartje voor sprint 13 gemaakt met svelteKit en prismic.
 
 ![afbeelding](https://user-images.githubusercontent.com/26089533/189646377-3d21047a-800b-45ea-8ec2-5b4c96051ee1.png)
 
@@ -12,6 +12,7 @@ Dit is mijn visitekaartje voor sprint 13 gemaakt in svelteKit.
 * CSS
 * JS
 * SvelteKit
+* Prismic.io
 
 ## Installatie
 
@@ -24,7 +25,11 @@ Dit is mijn visitekaartje voor sprint 13 gemaakt in svelteKit.
 
 [SvelteKit Docs](https://kit.svelte.dev/docs/introduction)
 <br>
+[Prismic Docs](https://prismic.io/docs/technologies/svelte)
+<br>
 [SvelteKit Tutorials](https://www.youtube.com/watch?v=9OlLxkaeVvw&list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP)
+
+
 
 
 ## Licentie
