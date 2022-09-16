@@ -4,7 +4,9 @@
     import Bio from "$lib/components/Bio.svelte";
 
 
-
+    import * as prismicH from '@prismicio/helpers';
+  export let data;
+  const {  document }  = data
 
   
 

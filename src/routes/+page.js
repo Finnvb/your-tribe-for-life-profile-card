@@ -1,13 +1,4 @@
-// export async function load({fetch}) {
-    
-// }
-
-
-
-
-
-
-import createClient from '$lib/prismicio'
+// import createClient from '$lib/prismicio'
 
 // export async function load({ fetch, request }) {
 // 	const UID = '1';
